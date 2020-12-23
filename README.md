@@ -33,7 +33,8 @@ Acceptance Criteria:
 ● Validate that user social media links are working as expected
 ● Validate that "Fire investigation" case study provides Results
 ● Validate that under About>Locations have Stoke Office Address
-● Capture the results and stoke office address
+● Capture the results and stoke office address(I have created the capture directory 
+my framework automatically takes screenshot and puts in this file )
 
 
 System Requirements:
@@ -72,3 +73,4 @@ Note: I keep all scenario's steps in step definition because I want to show all 
 I can keep "I open the DaviesGroup webpage" in Hooks class under @Before tag. Also I done this.
 but I hide them. If you want to see how is working you can execute test scenarios through
 unhide related line under @Before tag and hide the step that is in each feature under Background keyword 
+
