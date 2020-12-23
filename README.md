@@ -74,3 +74,10 @@ I can keep "I open the DaviesGroup webpage" in Hooks class under @Before tag. Al
 but I hide them. If you want to see how is working you can execute test scenarios through
 unhide related line under @Before tag and hide the step that is in each feature under Background keyword 
 
+HOW TO DOWNLOAD THE CODE FROM MY GITHUB
+
+1. Get my github link (I shared with my mail)
+2. Click the code button 
+3. Copy the link 
+4. From intellij File>New>Project>Project From Version Control then click
+5. Paste the link then click the clone button...
